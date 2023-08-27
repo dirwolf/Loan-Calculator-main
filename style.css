@@ -1,3 +1,12 @@
+.h2 {
+  font-size: 36px; /* Adjust the font size as needed */
+  color: #0078d4; /* Change the color to your preference */
+  text-transform: uppercase; /* Convert text to uppercase */
+  font-weight: bold; /* Make the text bold */
+  letter-spacing: 4px; /* Add letter spacing for a sleek look */
+  text-align: center; /* Center the text horizontally */
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); /* Add a subtle text shadow */
+}
 .loan-calculator {
   font-family: "Roboto", sans-serif;
   width: 600px;
